@@ -29,9 +29,9 @@
         <h1 class="h1 fw-bold">Intuition</h1>
         <br />
         <p class="text-justify">
-          This project was built using Bootstrap and VueJS. Bootstrap is a free
-          and open-source CSS framework directed at responsive, mobile-first
-          front-end web development.
+          This project was built using VueJS, VueX for State management and
+          Bootstrap which is a free and open-source CSS framework directed at
+          responsive, mobile-first front-end web development.
         </p>
         <br />
 
