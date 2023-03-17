@@ -1,0 +1,22 @@
+
+body, html {
+  background-color: #A45559;
+  padding: 0;
+margin: 0;
+width: 100%;
+min-height: 100%;
+font-size: 17px;
+}
+#app {
+  
+    background-color: #A45559;
+    color: white;
+  }
+
+  .container {
+    position: relative;
+    margin-top: 5%;
+  }
+  
+  
+  
