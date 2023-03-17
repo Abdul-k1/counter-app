@@ -1,23 +1,17 @@
-# counter-app
+# ALTSCHOOL AFRICA
 
-## Project setup
-```
-npm install
-```
+## Third and Final Semester Project
 
-### Compiles and hot-reloads for development
+### Task
 ```
-npm run serve
-```
+Create a new vue js application using the cli then setup a counter composable with increment, decrement, reset, setValue functions with a valid UI.
 
-### Compiles and minifies for production
-```
-npm run build
+You can use local state or vuex for state management albeit using vuex will attract higher marks. Make sure to house your functionality in a page with route - ‘/counter’ any other route should redirect the user to a 404 page handled by your wildcard route.
 ```
 
-### Lints and fixes files
+### Intuition
 ```
-npm run lint
+This project was built using Bootstrap and VueJS. Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.
 ```
 
 ### Customize configuration
