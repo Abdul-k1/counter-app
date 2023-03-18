@@ -40,30 +40,6 @@
 export default {
   name: "myCounter"
 }
-
-/*
-export default {
-  name: "myCounter",
-  
-  data: function () {
-    return {
-      count: 0,
-    };
-  },
-  methods: {
-    increment: function () {
-      this.count = this.count + 1;
-    },
-    decrement: function () {
-      this.count = this.count - 1;
-    },
-    reset: function () {
-      this.count = 0;
-    },
-  },
-};
-*/
-
 </script>
 
 <style>
