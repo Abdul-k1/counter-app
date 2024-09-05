@@ -9,9 +9,7 @@
         />
       </div>
       <div class="col-md-6">
-        <h5 class="h5">ALTSCHOOL AFRICA</h5>
-        <h2 class="h2">Third and Final Semester Project</h2>
-        <br />
+        
         <h1 class="h1 fw-bold">Task</h1>
         <p class="text-justify">
           Create a new vue js application using the cli then setup a counter
