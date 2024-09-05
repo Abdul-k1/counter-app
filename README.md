@@ -1,6 +1,3 @@
-# ALTSCHOOL AFRICA
-
-## Third and Final Semester Project
 
 ### Task
 
